@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyTube</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shorts">Shorts</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_subscriptions">Subscriptions</string>
+    <string name="nav_library">You</string>
+    <string name="search_hint">Search local videos...</string>
+    <string name="up_next">Up next</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="edit_custom_title">Set Custom Title</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom_title_hint">Enter custom title...</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="share">Share</string>
+    <string name="download">Save</string>
+    <string name="downloaded">Saved</string>
+    <string name="remix">Remix</string>
+    <string name="no_videos_found">No local videos found</string>
+    <string name="grant_permission">Grant Access</string>
+    <string name="permission_rationale">MyTube needs storage permission to play videos from your device.</string>
+</resources>
